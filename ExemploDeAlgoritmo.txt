@@ -1,0 +1,13 @@
+Algoritmo de hora de acordar
+Processo: Rotina de sábado
+Acordar.
+Tomar café.
+Escovar os dentes.
+Se estiver fazendo sol vou à praia senão ficar em casa e 
+assistir um filme em casa.
+Almoçar
+Ler um livro.
+Fazer uma refeição.
+Ir dormir.
+
+Fim do sábado.

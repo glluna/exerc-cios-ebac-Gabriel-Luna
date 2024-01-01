@@ -1,5 +1,0 @@
-A linguagem procedural organiza o código em funções,a execução do programa ocorre de cima para baixo, seguindo a estrutura definida pelo procedimento.
-Foco na sequencia de passos para realizar uma tarefa.
-
-A linguagem orientada a objetos organiza o código em unidades chamadas objetos que pertencem ao mundo real, que combinam dados e comportamentos.
-ela não tem uma sequencia de passos de inicio, meio e fim como a procedural,a POO possui varias classes cada uma com seus próprios métodos(funções) e estabelecem comunicações entre elas.
